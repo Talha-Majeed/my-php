@@ -1,2 +1,2 @@
 # my-php
-This is my php file which covers all basic things.
+These are my php files which covers all basic things.
